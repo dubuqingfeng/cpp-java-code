@@ -1,18 +1,24 @@
-c---code
+C++ Java Notes && Codes
 ========
 
-my c++ code
-这里放关于c/c++的练习代码、这里将会涵盖c/c++基础，STL，算法基础，qt，exploit，Arduino，嵌入式，课设，java
-#############################
-索引
-==============================
-c++ primer plus
-#################################
-exam
-###############################
-java
-design pattern
-fishgame
+这里放关于c/c++或java的练习代码、这里将会涵盖c/c++基础，STL，算法基础，qt，exploit，Arduino，嵌入式，课设，java
 
+---
 
-By:dubuqingfeng
+##索引
+
++ QT practice           //QT 练习代码
++ c++ primer plus					//《C++ primer plus》笔记及练习代码
++ c++ programming style		//《C++ 编码风格》笔记及练习代码
++ c++ qt design pattern		//《C++ QT设计模式》笔记及练习代码
++ datastructures				//数据结构 
++ exam				//C++期末或者考试作业
++ java				//java代码
+  + |Design Pattern			//设计模式
+  + |afterschool			//课后作业
+  + |examples				//示例或例子
+  + |exercise				//期末或考试作业
+  + |crazyjava				//《疯狂java程序员的基本修养》笔记及练习代码
+   + ||ArrayTest 
++ library					//C++常见库
++ practice				//C++练习代码
