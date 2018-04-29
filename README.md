@@ -5,7 +5,7 @@ C++ Java Notes && Codes
 
 ---
 
-##索引
+## 索引
 
 + QT practice           //QT 练习代码
   + Linux
@@ -29,5 +29,3 @@ C++ Java Notes && Codes
     + MyTest
 + library					//C++常见库
 + practice				//C++练习代码
-
-##入门与提升
